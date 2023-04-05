@@ -1,5 +1,8 @@
 # ActiveMq Artemis
 
+You can read this documentation in the following languages:
+- [Russian](https://github.com/Maslinin/ActiveMq-Artemis-Guide/blob/master/locales/ActiveMq-Artemis-Guide-RU.md)
+
 ## Basic information
 **ActiveMq Artemis** - is highly efficient message broker designed to process a large number of messages in real time. Artemis is based on JVM and supported on Windows, Linux и macOS.
 
