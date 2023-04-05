@@ -1,6 +1,6 @@
 # ActiveMq Artemis
 
-You can read this documentation in the following languages:
+You can also read this documentation in the following languages:
 - [Russian](https://github.com/Maslinin/ActiveMq-Artemis-Guide/blob/master/locales/ActiveMq-Artemis-Guide-RU.md)
 
 ## Basic information
